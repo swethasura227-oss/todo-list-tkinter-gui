@@ -1,4 +1,3 @@
-# todo-list-tkinter-gui
 # To-Do List (Tkinter GUI)
 
 A simple To-Do List application developed using Python and Tkinter.
