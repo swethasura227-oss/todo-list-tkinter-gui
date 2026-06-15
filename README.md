@@ -2,6 +2,10 @@
 
 A simple To-Do List application developed using Python and Tkinter.
 
+## Intern Details
+- Name: Sura Swetha
+- Intern ID: CITS4537
+
 ## Features
 - Add Tasks
 - Delete Tasks
